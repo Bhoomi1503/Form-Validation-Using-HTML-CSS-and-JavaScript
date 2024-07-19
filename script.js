@@ -24,8 +24,5 @@ function validation(){
         alert("Fill the address");
         return false;
     }
-    else{
-        alert("Form Submitted Successful!!!");
-    }
 
 }
